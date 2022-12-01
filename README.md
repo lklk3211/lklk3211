@@ -36,5 +36,10 @@
 </a>
 
 
-
-
+<hr>
+<hr>
+<a href="https://github.com/lklk3211">
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=lklk3211&langs_count=8"/>
+ 
+  
+</a>
