@@ -30,9 +30,9 @@
 
 
 <a href="https://github.com/lklk3211">
-  <img align="center" width="33%"  height="125px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lklk3211&layout=compact" />
-  <img align="center" width="33%" src="https://github-readme-stats.vercel.app/api?username=lklk3211&show_icons=true&theme=radical" />
-  <img align="center" width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=lklk3211&" alt="lklk3211" />
+  
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=lklk3211&show_icons=true&theme=radical" />
+  <img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lklk3211&" alt="lklk3211" />
 </a>
 
 
