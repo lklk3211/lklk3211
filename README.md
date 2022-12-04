@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/lokendra-kheta-86336b202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/lklk3211/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokendra kheta" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/lokendra-kheta-86336b202/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lokendra kheta" height="30" width="40" /></a>
 <a href="https://fb.com/lokendra kheta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lokendra kheta" height="30" width="40" /></a>
 <a href="https://instagram.com/lklk.3211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lklk.3211" height="30" width="40" /></a>
 </p>
