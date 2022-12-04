@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **lokeykheta01@gmail.com**
 
+- 🎮 Most used line of code `git commit -m "Initial Commit"`
+
 - ⚡ Fun fact **I am funny😎**
 
 <h3 align="left">Connect with me:</h3>
